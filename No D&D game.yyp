@@ -79,11 +79,27 @@
             }
         },
         {
+            "Key": "8430fb2d-8099-4f9b-b1ef-247436c86387",
+            "Value": {
+                "id": "3e427bd3-d35c-4db0-add1-5d3a7f1dda71",
+                "resourcePath": "sprites\\spr_background\\spr_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "859c1f68-6b12-46b0-b444-ef32f0500b32",
             "Value": {
                 "id": "7d2755bc-f5bb-41a5-a8f0-5ebb02535f93",
                 "resourcePath": "views\\859c1f68-6b12-46b0-b444-ef32f0500b32.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "905d9798-c9cd-41c4-a250-431cb7c2b42a",
+            "Value": {
+                "id": "ba80a863-9eeb-4973-b1a0-d8439f9776df",
+                "resourcePath": "tilesets\\til_background\\til_background.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
