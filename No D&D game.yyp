@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "2dbca701-834d-4490-8257-44f7ddb9f761",
+            "Value": {
+                "id": "304d9d33-4945-45ec-8c2b-c944cef2a9b0",
+                "resourcePath": "fonts\\fnt_score\\fnt_score.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "38b5f81c-28fb-4d5f-b889-46d734d73fc6",
             "Value": {
                 "id": "8c252a40-a86d-49b0-b7e5-5b6297420eec",
@@ -119,11 +127,27 @@
             }
         },
         {
+            "Key": "aa29d2f3-1896-4652-a711-a5aba39e8f5a",
+            "Value": {
+                "id": "715e1559-1432-4e8f-aef7-66c7f43b445f",
+                "resourcePath": "objects\\obj_score\\obj_score.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ac4deb70-6d81-4723-8db6-c48c6d4b3dec",
             "Value": {
                 "id": "d14b6cec-4594-4261-baca-be75081cd11e",
                 "resourcePath": "views\\ac4deb70-6d81-4723-8db6-c48c6d4b3dec.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "af841572-2b57-4ecc-afc9-7c7f419ab1fe",
+            "Value": {
+                "id": "1ced6926-9923-4544-85ef-e96199753967",
+                "resourcePath": "sounds\\snd_enemy_death\\snd_enemy_death.yy",
+                "resourceType": "GMSound"
             }
         },
         {
