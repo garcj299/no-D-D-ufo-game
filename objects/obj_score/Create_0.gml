@@ -1,0 +1,3 @@
+//score!!
+thescore=0;
+
