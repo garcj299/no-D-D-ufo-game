@@ -14,4 +14,4 @@ if(mouse_check_button(mb_left)) && (cooldown < 1)
 	cooldown=7;
 }
 
-cooldown = cooldown - 30;
+cooldown = cooldown - 1;
